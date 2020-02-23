@@ -13,7 +13,7 @@
 
 ## 4.Twitter authentication
 
-4.1<br>
+![image](https://github.com/tiaowang1132/ctf/blob/master/rootme-image/4.1.png)<br>
 ## 5.IP - Time To Live
 考察TTL，使用wireshark打开文件，由数据包可知道，ttl小于13时，没有应答，而等于13时则有了回答，说明ttl=13。
 注：ttl是每过一个路由就减1。

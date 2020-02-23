@@ -1,7 +1,7 @@
 # Steganography
 ## 1.Gunnm
 将题目的图片放大，仔细观察右上方，即可发现答案。<br>
-3.2<br>
+![image](https://github.com/tiaowang1132/ctf/blob/master/rootme-image/3.1.png)<br>
 ## 2.Squared
 下载该图片，用文本编辑器打开，即可发现flag。
 
